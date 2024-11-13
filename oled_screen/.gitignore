@@ -1,0 +1,12 @@
+# ignore binary files
+buid/
+
+# ignore sdkconfig 
+sdkconfig 
+
+# idf and vs config 
+.devcontainer/
+.vscode/
+
+# ignore default README.md
+README.md
