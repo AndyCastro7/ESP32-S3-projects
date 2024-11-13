@@ -1,5 +1,5 @@
 # ignore binary files
-buid/
+build/
 
 # ignore sdkconfig 
 sdkconfig 
